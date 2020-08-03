@@ -1,3 +1,4 @@
 debug.log
 *.png
-*/logs/*
+mobile/logs
+web/logs
